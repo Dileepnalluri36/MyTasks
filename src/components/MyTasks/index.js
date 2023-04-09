@@ -114,7 +114,7 @@ class MyTasks extends Component {
                   <option
                     defaultValue={index === {baseIndex}}
                     key={eachTag.optionId}
-                    value={eachTag.optionId}
+                    value={eachTag.displayText}
                     id={eachTag.optionId}
                   >
                     {eachTag.displayText}
