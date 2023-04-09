@@ -1,0 +1,22 @@
+.task_item_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1a171d;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.tag_item_button {
+  border-radius: 10px;
+  border-style: none;
+  font-size: 15px;
+  color: #fff;
+  background-color: #f3aa4e;
+  width: 120px;
+  text-align: center;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

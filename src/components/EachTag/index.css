@@ -1,0 +1,17 @@
+.eachTag_display {
+  border: 2px solid #f3aa4e;
+  padding: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-family: Roboto;
+}
+.tags_button {
+  background-color: transparent;
+  border-style: none;
+  color: #fff;
+  font-size: 15px;
+}
+
+.active-bg {
+  background-color: #f3aa4e;
+}
